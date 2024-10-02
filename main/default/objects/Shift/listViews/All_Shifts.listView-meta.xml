@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>All_Shifts</fullName>
+    <columns>Name</columns>
+    <columns>LastModifiedDate</columns>
+    <columns>LastModifiedBy</columns>
+    <columns>StartTime</columns>
+    <columns>EndTime</columns>
+    <columns>ServiceResource</columns>
+    <columns>ServiceTerritory</columns>
+    <columns>Status</columns>
+    <columns>BackgroundColor</columns>
+    <columns>Type</columns>
+    <filterScope>Mine</filterScope>
+    <label>All Shifts</label>
+</ListView>
